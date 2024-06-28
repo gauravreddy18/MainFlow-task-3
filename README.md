@@ -1,1 +1,1 @@
-# MainFlow-task-3
+Using the matplotlib library, data visualization is required for this task. The tasks involve utilizing Matplotlib to create a bar chart and a line chart that display data from a Pandas DataFrame, and then personalizing the charts with labels, titles, and legends.
